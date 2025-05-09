@@ -1,0 +1,1 @@
+# O interpretador do phyton é um programa qu lê e executa
