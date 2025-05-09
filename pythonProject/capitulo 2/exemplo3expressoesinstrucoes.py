@@ -1,4 +1,4 @@
-# Expressões sao a combinação de valorm variavel e um operador
+# Expressões sao a combinação de valor variavel e um operador
 
 num1 = 25
 num2 = 17
